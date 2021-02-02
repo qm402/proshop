@@ -171,8 +171,8 @@ export {
   registerUser,
   getUserProfile,
   updateUserProfile,
-  getUsers,
   deleteUser,
   getUserById,
   updateUser,
+  getUsers,
 };
